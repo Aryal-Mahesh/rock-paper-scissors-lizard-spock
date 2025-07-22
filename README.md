@@ -16,8 +16,18 @@ Paper disproves Spock.
 Spock vaporizes Rock.
 Rock breaks Scissors.
 
-
 ---
+
+1) ✊
+2) ✋
+3) ✌️
+4) 🦎
+5) 🖖
+Pick a number: 3
+
+You chose: ✌️
+AI chose: ✌️
+It's a tie!
 
 ## 🚀 How to Play
 
