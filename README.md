@@ -1,16 +1,5 @@
-rock-paper-scissors-lizard-spock/
-│
-├── game.py                # Your main Python game
-├── test_game.py           # A simple unit test
-├── README.md              # Documentation
-├── requirements.txt       # Dependencies (if any)
-├── .gitignore             # Ignore pycache etc.
-├── .github/
-│   └── workflows/
-│       └── python-app.yml # GitHub Actions workflow
 
-
-# 🪨✋✌️🦎🖖 Rock-Paper-Scissors-Lizard-Spock Game
+# ✊✋✌️🦎🖖 Rock-Paper-Scissors-Lizard-Spock Game
 
 A playful Python implementation of the legendary game **"Rock-Paper-Scissors-Lizard-Spock"** — a geekier, more chaotic twist on the classic. This game includes a simple terminal-based UI, rule alerts, and randomized CPU moves!
 
