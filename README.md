@@ -33,7 +33,7 @@ It's a tie!
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors-lizard-spock.git
+   git clone https://github.com/Aryal-Mahesh/rock-paper-scissors-lizard-spock.git
    cd rock-paper-scissors-lizard-spock
 
 2. Run the game:
