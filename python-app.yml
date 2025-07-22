@@ -18,3 +18,16 @@ jobs:
         run: |
           pytest
 
+
+
+
+rock-paper-scissors-lizard-spock/
+│
+├── game.py                # Your main Python game
+├── test_game.py           # A simple unit test
+├── README.md              # Documentation
+├── requirements.txt       # Dependencies (if any)
+├── .gitignore             # Ignore pycache etc.
+├── .github/
+│   └── workflows/
+│       └── python-app.yml # GitHub Actions workflow
